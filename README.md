@@ -79,6 +79,6 @@ MySQL for the efficient database management system.
 
 **Contact**
 For any questions or suggestions, please reach out to:
-G.Nagabhushanarao
-LinkedIn: www.linkedin.com/in/gujjidi-nagabhushanarao-0ba361277
+Rahul Samanta
+LinkedIn: https://www.linkedin.com/in/rahul-samanta-116572275/
 
